@@ -17,4 +17,6 @@ All the preliminary studies, including plots and grid searches, can be found in 
 
 "test_tokenization.ipynb": where I tried to perform a valuable cleaning and tokenization phase.
 
+"MLP_classifier.ipynb": where I tried to train a simple NN to classify
+
 To replicate the results obtained in submission.csv, it is sufficient to run the main.py file.
