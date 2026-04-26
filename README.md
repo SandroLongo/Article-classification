@@ -1,2 +1,2 @@
 # Article-classification
-This is my first time applying some machine algorithms. In particular i tried to classify categories of an article dataset with SVM and MNB machine learning algorithms
+This repository marks my first hands-on experience with Machine Learning. I focused on text classification using a subset of the Reuters dataset, starting with traditional algorithms like Support Vector Machines (SVM) and Multinomial Naive Bayes (MNB). Currently, as I dive into Deep Learning, I have also implemented and am testing a Multi-Layer Perceptron (MLP) classifier.
